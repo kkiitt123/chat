@@ -1,0 +1,161 @@
+2018-05-27T12:03:28.018Z - info: User function triggered, starting execution
+2018-05-27T12:03:28.027Z - info: Execution took 12 ms, user function completed successfully
+2018-05-27T12:05:32.781Z - info: User function triggered, starting execution
+2018-05-27T12:05:33.015Z - info: Execution took 233 ms, user function completed successfully
+2018-05-27T12:05:33.016Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:05:45.926Z - info: User function triggered, starting execution
+2018-05-27T12:05:45.930Z - info: Execution took 5 ms, user function completed successfully
+2018-05-27T12:06:51.249Z - info: User function triggered, starting execution
+2018-05-27T12:06:51.250Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:06:51.250Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:07:51.825Z - info: User function triggered, starting execution
+2018-05-27T12:07:51.974Z - info: Execution took 150 ms, user function completed successfully
+2018-05-27T12:09:55.386Z - info: User function triggered, starting execution
+2018-05-27T12:09:55.387Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:09:55.387Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:10:14.217Z - info: User function triggered, starting execution
+2018-05-27T12:10:14.218Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:10:28.586Z - info: User function triggered, starting execution
+2018-05-27T12:10:28.586Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:10:28.586Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:12:00.275Z - info: Worker for v1 closed due to file changes.
+2018-05-27T12:12:00.295Z - error: Function worker killed by signal: SIGTERM
+2018-05-27T12:13:25.570Z - info: User function triggered, starting execution
+2018-05-27T12:13:26.752Z - info: Execution took 1184 ms, user function completed successfully
+2018-05-27T12:13:38.112Z - info: User function triggered, starting execution
+2018-05-27T12:13:38.116Z - info: Execution took 3 ms, user function completed successfully
+2018-05-27T12:13:38.116Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:17:30.104Z - info: User function triggered, starting execution
+2018-05-27T12:17:30.106Z - info: Execution took 3 ms, user function completed successfully
+2018-05-27T12:17:30.107Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:18:19.942Z - info: User function triggered, starting execution
+2018-05-27T12:18:19.943Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:18:19.943Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:19:08.546Z - info: User function triggered, starting execution
+2018-05-27T12:19:08.547Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:19:08.548Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:20:51.291Z - info: User function triggered, starting execution
+2018-05-27T12:20:51.292Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:20:51.293Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:21:31.910Z - info: User function triggered, starting execution
+2018-05-27T12:21:32.051Z - info: Execution took 140 ms, user function completed successfully
+2018-05-27T12:21:33.723Z - info: User function triggered, starting execution
+2018-05-27T12:21:33.859Z - info: Execution took 135 ms, user function completed successfully
+2018-05-27T12:21:41.439Z - info: User function triggered, starting execution
+2018-05-27T12:21:41.440Z - info: Execution took 1 ms, user function completed successfully
+2018-05-27T12:21:41.441Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:22:13.944Z - info: User function triggered, starting execution
+2018-05-27T12:22:13.945Z - info: Execution took 2 ms, user function completed successfully
+2018-05-27T12:22:13.946Z - error: Error: Reference.child failed: First argument was an invalid path = "undefined". Paths must be non-empty strings and can't contain ".", "#", "$", "[", or "]"
+    at validatePathString (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:1612:15)
+    at Reference.child (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\@firebase\database\dist\index.node.cjs.js:13932:17)
+    at createChannel (G:\workspace-myself\chat\fireBaseChat\functions\index.js:86:17)
+    at app.post (G:\workspace-myself\chat\fireBaseChat\functions\index.js:94:5)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at next (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\layer.js:95:5)
+    at G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (G:\workspace-myself\chat\fireBaseChat\functions\node_modules\express\lib\router\index.js:335:12)
+2018-05-27T12:24:50.209Z - info: User function triggered, starting execution
+2018-05-27T12:24:50.245Z - info: Execution took 36 ms, user function completed successfully

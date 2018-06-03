@@ -1,0 +1,91 @@
+
+-----
+5章
+-----
+
+�쐬�ł��Ȃ��̂Ŏ擾
+firebase use --add
+firebase serve --only functions
+http://localhost:5000/demoapp-88ee1/us-central1/v1
+
+
+curl -H 'Content-Type:application/json' -d '{"cname":"general"}' http://localhost:5000/demoapp-88ee1/us-central1/v1/channels
+
+
+
+-------------------------
+-------------------------
+
+firebase deploy --only functions
+https://us-central1-demoapp-88ee1.cloudfunctions.net/v1/
+
+
+curl -H 'Content-Type:application/json' -d '{"cname":"general"}' https://us-central1-demoapp-88ee1.cloudfunctions.net/v1/channels
+
+
+curl -H 'Content-Type:application/json' -d '{}' https://us-central1-demoapp-88ee1.cloudfunctions.net/v1/reset
+
+
+
+https://us-central1-demoapp-88ee1.cloudfunctions.net/v1/channels
+{"cname":"aaaaa"}
+
+
+https://us-central1-demoapp-88ee1.cloudfunctions.net/v1/channels
+
+
+
+-------
+6章
+-------
+
+
+cd vueChat
+npm run dev
+npm run buiil
+
+
+--------------
+Es Lintの補完補正
+--------------
+data(){}
+ではなく
+data () {}
+のようにスペースを空けないとフォーマットエラー
+
+componetsの
+index.vueを作り
+script - jsファイル
+template - pugファイル
+style - cssファイル
+に記述した。
+
+そのためcomponetsに新しくディレクトリを作り
+chatというディレクトリを作った。
+chatディレクトリに.vue,.js,.pug,.cssのファイルを１まとめにして作成
+
+
+routeファイルのroutesの中身のcomponetsやnameを定義する際に
+,を使ったが、,の後にスペースがあるとEslintのエラーがでるので気を付ける
+
+javascriptで
+routeフォルダを作ってそこでindex.jsを作って
+routeに関する設定ファイルを記述。
+
+npm routerとかでモジュールを入れたが、ここで定義する
+
+ただしimportで定義しても使用しないと赤エラーがでる。ESlintの。
+ここで利用できないと。
+
+
+main.jsは絶対に呼ばれる部分なので、
+main.jsにrouterやvuexをimportして使用する
+
+
+vuexを使えば、storeで管理するので、
+js側のdataからは削除する！！
+
+firebaseのログを確認して通信ができているか確認する
+
+F12のデベロッパーツールで調べる
+

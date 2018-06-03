@@ -1,0 +1,68 @@
+2018-06-03T05:26:38.949Z - info: User function triggered, starting execution
+2018-06-03T05:26:38.964Z - info: Execution took 19 ms, user function completed successfully
+2018-06-03T05:26:38.968Z - info: User function triggered, starting execution
+2018-06-03T05:26:40.872Z - info: Execution took 1906 ms, user function completed successfully
+2018-06-03T05:26:50.682Z - info: User function triggered, starting execution
+2018-06-03T05:26:50.686Z - info: Execution took 2 ms, user function completed successfully
+2018-06-03T05:26:50.954Z - info: User function triggered, starting execution
+2018-06-03T05:26:50.954Z - info: Execution took 0 ms, user function completed successfully
+2018-06-03T05:26:52.374Z - info: User function triggered, starting execution
+2018-06-03T05:26:52.376Z - info: Execution took 0 ms, user function completed successfully
+2018-06-03T05:26:53.113Z - info: User function triggered, starting execution
+2018-06-03T05:26:53.114Z - info: Execution took 0 ms, user function completed successfully
+2018-06-03T05:29:00.597Z - info: User function triggered, starting execution
+2018-06-03T05:29:00.603Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:29:00.850Z - info: User function triggered, starting execution
+2018-06-03T05:29:00.852Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:29:28.386Z - info: User function triggered, starting execution
+2018-06-03T05:29:28.387Z - info: Execution took 0 ms, user function completed successfully
+2018-06-03T05:29:28.636Z - info: User function triggered, starting execution
+2018-06-03T05:29:28.637Z - info: Execution took 0 ms, user function completed successfully
+2018-06-03T05:33:47.526Z - info: User function triggered, starting execution
+2018-06-03T05:33:47.532Z - info: Execution took 5 ms, user function completed successfully
+2018-06-03T05:33:59.616Z - info: User function triggered, starting execution
+2018-06-03T05:33:59.759Z - error: [2018-06-03T05:33:59.759Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T05:33:59.761Z - info: Execution took 143 ms, user function completed successfully
+2018-06-03T05:36:25.656Z - info: User function triggered, starting execution
+2018-06-03T05:36:25.658Z - info: User function triggered, starting execution
+2018-06-03T05:36:25.795Z - error: [2018-06-03T05:36:25.794Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T05:36:25.796Z - info: Execution took 139 ms, user function completed successfully
+2018-06-03T05:36:25.798Z - info: Execution took 140 ms, user function completed successfully
+2018-06-03T05:36:33.932Z - info: User function triggered, starting execution
+2018-06-03T05:36:34.070Z - info: Execution took 139 ms, user function completed successfully
+2018-06-03T05:36:34.234Z - info: User function triggered, starting execution
+2018-06-03T05:36:34.383Z - error: [2018-06-03T05:36:34.383Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T05:36:34.384Z - info: Execution took 149 ms, user function completed successfully
+2018-06-03T05:36:36.035Z - info: User function triggered, starting execution
+2018-06-03T05:36:36.037Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:36:36.285Z - info: User function triggered, starting execution
+2018-06-03T05:36:36.290Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:36:36.344Z - info: User function triggered, starting execution
+2018-06-03T05:36:36.482Z - error: [2018-06-03T05:36:36.482Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T05:36:36.483Z - info: Execution took 138 ms, user function completed successfully
+2018-06-03T05:36:36.602Z - info: User function triggered, starting execution
+2018-06-03T05:36:36.603Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:36:36.754Z - info: User function triggered, starting execution
+2018-06-03T05:36:36.892Z - error: [2018-06-03T05:36:36.892Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T05:36:36.893Z - info: Execution took 139 ms, user function completed successfully
+2018-06-03T05:36:36.913Z - info: User function triggered, starting execution
+2018-06-03T05:36:36.914Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:36:36.972Z - info: User function triggered, starting execution
+2018-06-03T05:36:36.974Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:36:37.138Z - info: User function triggered, starting execution
+2018-06-03T05:36:37.224Z - info: User function triggered, starting execution
+2018-06-03T05:36:37.277Z - error: [2018-06-03T05:36:37.277Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T05:36:37.279Z - info: Execution took 53 ms, user function completed successfully
+Execution took 140 ms, user function completed successfully
+2018-06-03T05:36:42.839Z - info: User function triggered, starting execution
+2018-06-03T05:36:42.840Z - info: Execution took 0 ms, user function completed successfully
+2018-06-03T05:36:43.148Z - info: User function triggered, starting execution
+2018-06-03T05:36:43.151Z - info: Execution took 1 ms, user function completed successfully
+2018-06-03T05:36:43.401Z - info: User function triggered, starting execution
+2018-06-03T05:36:43.539Z - error: [2018-06-03T05:36:43.539Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T05:36:43.540Z - info: Execution took 138 ms, user function completed successfully
+2018-06-03T05:45:54.141Z - error: Function worker killed by signal: SIGTERM
+2018-06-03T06:28:23.654Z - info: User function triggered, starting execution
+2018-06-03T06:28:25.042Z - error: [2018-06-03T06:28:25.039Z]  @firebase/database: FIREBASE WARNING: Using an unspecified index. Your data will be downloaded and filtered on the client. Consider adding ".indexOn": "date" at /channels/general/messages to your security rules for better performance. 
+2018-06-03T06:28:25.043Z - info: Execution took 1387 ms, user function completed successfully
+2018-06-03T06:37:54.193Z - error: Function worker killed by signal: SIGTERM
